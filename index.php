@@ -8,3 +8,5 @@ echo "Olá Hcode";
 
 
 ?>
+
+<div id="teste"> teste </div>
